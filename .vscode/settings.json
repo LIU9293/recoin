@@ -1,0 +1,4 @@
+{
+  "editor.formatOnSave": true,
+  "reason.diagnostics.tools": ["merlin", "bsb"]
+}
