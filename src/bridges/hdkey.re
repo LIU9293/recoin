@@ -1,9 +1,9 @@
 /* came from JS class */
-type hdnodeType = Js.t({
+type hdnodeType = {
   .
-  publicExtendedKey: string,
-  privateExtendedKey: string,
-});
+  "publicExtendedKey": string,
+  "privateExtendedKey": string,
+};
 
 /* some bindings for hdkey library */
 [@bs.module "hdkey"] external fromMasterSeed : string => hdnodeType = "fromMasterSeed";

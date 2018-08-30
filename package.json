@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "bip39": "2.5.0",
-    "bs-platform": "4.0.1",
+    "bs-platform": "4.0.5",
     "coveralls": "3.0.2",
     "eosjs": "16.0.0",
     "eosjs-ecc": "4.0.2",
